@@ -4,6 +4,8 @@ import tkinter as tk
 
 root = tk.Tk()
 
+
+# not responsive :(
 frm_main = tk.Frame(master=root, width=200, height=200)
 frm_main.pack()
 
